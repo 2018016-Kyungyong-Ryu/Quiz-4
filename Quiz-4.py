@@ -9,4 +9,3 @@ def matrix(number):
 a = input("몇단까지 출력할까요? : ")
 b = int(a)
 result = matrix(b)
-print(result)
